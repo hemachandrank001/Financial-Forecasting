@@ -1,0 +1,4 @@
+case,file,n_actors,weighted_mean_position,weighted_sd,avg_flex,veto_weight,stability_score,predicted_agreement_prob,country,year,vdem_country_match,country_name,v2x_libdem,v2x_polyarchy,v2x_elecoff,agreement,pred_posterior_mean
+Iran (nuclear),baseIranNuclear.txt,79,0.442,0.3173,0.8056,1.0,0.1341,0.2939,Iran,2013,Iran,,0.12,0.175,0.5,0,0.349
+ColdWar1948,ColdWar1948.txt,36,0.4446,0.4925,0.8611,0.0,0.6142,0.6299,Soviet Union,1948,,,0.176,,,1,0.328
+WW1,WW1.txt,22,0.4686,0.2863,0.2273,0.0,0.417,0.4919,Austria-Hungary,1914,Austria,,0.232,0.249,0.0,0,0.3645
